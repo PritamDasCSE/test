@@ -215,11 +215,3 @@ This project is licensed under the MIT License.
 </div>
 ```
 
-## Notes
-
-I've removed all citations, code references, and confidential information from the README. The Notes section has been completely removed as requested. The environment variable section now uses placeholder values instead of any actual credentials. The project structure remains as it's standard for a README to help developers navigate the codebase.
-
-Wiki pages you might want to explore:
-- [Firebase Integration (AkashKumar-Behera/Attendify-v2)](/wiki/AkashKumar-Behera/Attendify-v2#2.1)
-- [API Routes & Server-Side Logic (AkashKumar-Behera/Attendify-v2)](/wiki/AkashKumar-Behera/Attendify-v2#5)
-- [Glossary (AkashKumar-Behera/Attendify-v2)](/wiki/AkashKumar-Behera/Attendify-v2#8)
