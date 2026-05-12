@@ -1,6 +1,4 @@
-Here's the cleaned-up README with all citations, code references, and confidential information removed:
 
-```markdown
 # 🎓 Attendify v2
 
 <div align="center">
