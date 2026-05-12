@@ -1,5 +1,5 @@
 
-# 🎓 Attendify v2
+# 🎓 Attendify 
 
 <div align="center">
 
